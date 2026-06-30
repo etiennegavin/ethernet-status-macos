@@ -78,8 +78,6 @@ Quit               ⌘Q
 
 ## Installation
 
-> **Note:** EthernetStatus is not (yet) code-signed or notarized by Apple, so macOS Gatekeeper will block it on first launch. That's why the first start uses a right-click → **Open**. The app only reads local network status and runs Apple's own `networkQuality` tool — it sends nothing anywhere. If you'd rather verify that yourself, the full source is right here in the repo.
-
 ### Step 1 — Install the app
 1. Open `EthernetStatus-1.0.dmg`
 2. Drag **EthernetStatus.app** into your **Applications** folder
