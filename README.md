@@ -87,7 +87,7 @@ Quit               ⌘Q
 3. The icon appears in the menu bar (top right)
 
 ### Step 3 — Autostart (optional, recommended)
-1. **Double-click** `Autostart einrichten.command`
+1. **Double-click** `autostart-cmd.command`
 2. Click **Open** in the Terminal prompt if asked
 3. The app now launches automatically at every login and restarts itself after a crash
 
