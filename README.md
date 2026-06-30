@@ -18,7 +18,11 @@ Give it a try and drop feedback to help improve it.
 |:---:|:---:|:---:|
 | ![Menu bar icon](docs/menubar.png) | ![Collapsed menu](docs/menu-collapsed.png) | ![Expanded view](docs/menu-expanded.png) |
 
-The menu bar icon reflects your **preferred** connection — an Ethernet plug when LAN is active, a Wi-Fi glyph when Wi-Fi takes priority, and it animates while a speedtest is running.
+The menu bar icon changes to reflect your current connection:
+
+| <img src="docs2/Lan.png" width="40"> | <img src="docs2/Wifi.png" width="40"> | <img src="docs2/No%20Connection.png" width="40"> |
+|:---:|:---:|:---:|
+| **Ethernet / LAN active** | **Wi-Fi active** | **Nothing connected** |
 
 ---
 
@@ -120,4 +124,3 @@ Found a bug or have an idea? [Open an issue](../../issues) — feedback is very 
 ## License
 
 Released under the [MIT License](LICENSE). Do what you like with it; just keep the copyright notice, and no warranty is provided.
-
